@@ -1,0 +1,48 @@
+/* 哈登主题自定义样式 */
+.header-wrapper {
+    background: linear-gradient(135deg, #000000 0%, #CE1141 100%) !important;
+}
+
+#site-title {
+    color: #ffffff !important;
+    font-weight: bold !important;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5) !important;
+}
+
+#site-subtitle {
+    color: rgba(255,255,255,0.9) !important;
+}
+
+#nav {
+    background: #000000 !important;
+    border-bottom: 3px solid #CE1141 !important;
+}
+
+#nav a {
+    color: #ffffff !important;
+    font-weight: bold !important;
+}
+
+#nav a:hover {
+    background: #CE1141 !important;
+    color: #ffffff !important;
+}
+
+.recent-post-item {
+    border-left: 4px solid #CE1141 !important;
+    box-shadow: 0 4px 12px rgba(206, 17, 65, 0.1) !important;
+    border-radius: 8px !important;
+}
+
+#footer {
+    background: #000000 !important;
+    color: #ffffff !important;
+    border-top: 3px solid #CE1141 !important;
+    padding: 30px 0 !important;
+}
+
+/* 文章标题样式 */
+.post-title {
+    border-left: 4px solid #CE1141 !important;
+    padding-left: 15px !important;
+}
